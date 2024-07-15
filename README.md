@@ -9,11 +9,15 @@ Recipe Explorer is an Android application that allows users to explore various r
 - Save favorite recipes and view them anytime.
 - Simple and user-friendly interface.
 
-## Screenshots
+## Screenshots 
 
-![Main Screen](screenshots/main_screen.png)
-![Recipe Detail Screen](screenshots/recipe_detail.png)
-![Favorites Screen](screenshots/favorites_screen.png)
+<img width="279" alt="cooking details" src="https://github.com/user-attachments/assets/32778048-efc0-40e7-bb2b-289afa14c785">
+<img width="279" alt="cuisine" src="https://github.com/user-attachments/assets/8f283c9e-7c86-47d2-a538-96ff9202aa82">
+<img width="279" alt="favourite addition" src="https://github.com/user-attachments/assets/77afaa08-1284-4e68-afbd-525e49df0cb8">
+<img width="279" alt="Favourite menu" src="https://github.com/user-attachments/assets/b3b4f2c5-e103-4167-b19c-bb86dfe39de3">
+<img width="279" alt="homwpage" src="https://github.com/user-attachments/assets/d4151ec9-8106-4208-b07e-8220322249ad">
+<img width="279" alt="receipe selection" src="https://github.com/user-attachments/assets/aec0c362-5f95-43f8-9a33-a1c4d79e14bc">
+
 
 ## Getting Started
 
