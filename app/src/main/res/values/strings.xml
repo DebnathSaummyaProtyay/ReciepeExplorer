@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simple Recipe App</string>
+    <string name="favorite_recipes">Favorite Recipes</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="ingredients_list">Ingredients List</string>
+    <string name="cooking_time">Cooking Time</string>
+    <string name="instructions">Instructions</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="view_favorites">View Favorites</string>
+    <string name="recipe_explorer">Recipe Explorer</string>
+    <string name="background_image_desc">Background image for the application</string>
+
+
+
+    <string-array name="cuisine_types">
+        <item>Italian</item>
+        <item>Mexican</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
